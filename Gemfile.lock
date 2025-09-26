@@ -141,6 +141,7 @@ GEM
       racc (~> 1.4)
     nokogiri (1.18.10-x86_64-linux-musl)
       racc (~> 1.4)
+    ostruct (0.6.3)
     pathutil (0.16.2)
       forwardable-extended (~> 2.6)
     public_suffix (6.0.2)
@@ -219,6 +220,7 @@ DEPENDENCIES
   jekyll-feed (~> 0.12)
   jemoji
   just-the-docs (~> 0.3.0)
+  ostruct (~> 0.6.3)
   tzinfo (>= 1, < 3)
   tzinfo-data
   wdm (~> 0.1)
