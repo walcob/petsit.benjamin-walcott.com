@@ -28,7 +28,7 @@ url: "https://petsit.benjamin-walcott.com" # the base hostname & protocol for yo
 github_username:  walcob
 
 # Build settings
-theme: minima
+theme: just-the-docs
 plugins:
   - jekyll-feed
 
